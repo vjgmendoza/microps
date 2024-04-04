@@ -2,6 +2,7 @@
 Arduino-Compatible Microcontroller with Enhanced Features
 
 Introduction:
+
 Have you ever struggled to find the correct cable for programming your Arduino? Do you frequently use I2C LCDs as interfaces for your projects? Have you wished for built-in buttons to test your program's logic? If so, this Arduino-compatible microcontroller addresses these exact issues. It's a solution tailored for tech enthusiasts and makers like us.
 
 Description:
@@ -29,17 +30,22 @@ Updates and Enhancements:
 9. Crystal Oscillator: Replaced the resonator with a crystal oscillator for higher timing accuracy.
 
 Getting Started:
+
 To begin using the Arduino-Compatible Microcontroller with Enhanced Features, follow the instructions provided in the documentation. Ensure you have the necessary drivers installed, and select the appropriate board from the Arduino IDE board menu. Write your code and upload it to the microcontroller to start exploring its enhanced capabilities.
 
 Compatibility:
+
 This microcontroller is compatible with the Arduino IDE and supports a wide range of Arduino libraries and shields, ensuring compatibility with various sensors and peripherals.
 
 Feedback:
+
 We value your feedback! If you have any suggestions, questions, or feature requests, please don't hesitate to contact us at vjgmendoza@gmail.com
 
 Disclaimer:
+
 This Arduino-compatible microcontroller product is based on open-source hardware and software designs, specifically those of the Arduino Uno. No copyright infringement is intended. The intention behind this product is to offer enhanced features and compatibility while adhering to the principles of open-source development. We acknowledge and respect the contributions of the Arduino community and the Arduino team towards creating the foundation upon which this product is built.
 It's important to note that Arduino is an open-source project, and as such, the designs, code, and concepts are freely available for anyone to use, modify, and distribute. Our product builds upon these open-source foundations, adding additional features and improvements to cater to specific needs and preferences of makers and enthusiasts.
 We encourage users to explore the Arduino ecosystem, contribute to the community, and embrace the spirit of open collaboration and innovation. Should you have any concerns or inquiries regarding the use of Arduino-related technologies in this product, please feel free to reach out to us for clarification.
+
 
 Happy Making! 🛠️
